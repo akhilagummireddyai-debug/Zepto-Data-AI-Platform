@@ -254,3 +254,4 @@ Find books with a rating of 5.
 SELECT title, rating
 FROM books
 WHERE rating = 5;
+Module 1 Data Pipeline completed successfully with 100 scraped books, SQLite normalization, SQL queries, and pandas validation.
